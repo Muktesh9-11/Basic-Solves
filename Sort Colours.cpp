@@ -26,3 +26,10 @@ public:
     }
     }
 };
+
+/*
+time complexity of O(N),
+doesnt use merge sort OR sort library [O(nlogn)].
+
+or using hashing to count freq. of 0s, 1s, 2s. [O(2n)]
+*/
