@@ -14,9 +14,19 @@ public:
 
     void solve(TreeNode* root, vector<int>& arr){
         if(root == NULL) return;
-        solve(root->left , arr);
-        arr.push_back(root->val);
-        solve(root->right , arr);
+        stack<TreeNode*> st;
+        
+        while(!st.empty() || root!=NULL){
+            while(root!=NULL){
+                st.push(root);
+                root=root->left;
+            }
+
+            root=st.top();
+            arr.push_back(root->val);
+            st.pop();
+            root=root->right;
+        }
     }
 
     vector<int> inorderTraversal(TreeNode* root) {
