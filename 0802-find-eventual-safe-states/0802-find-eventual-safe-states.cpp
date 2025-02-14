@@ -1,70 +1,43 @@
 class Solution {
 public:
-set<int>ans;
-map<int,int> safe;
-map<int,int> unsafe;
-
-    bool solve(vector<vector<int>>&graph, int n, int node, vector<int>&vis, vector<int>&path){
-        if(safe[node]){
-            ans.insert(node);
+    bool dfs(int node, vector<vector<int>>& adj, vector<bool>& visit,
+             vector<bool>& inStack) {
+        // If the node is already in the stack, we have a cycle.
+        if (inStack[node]) {
             return true;
         }
-        if(unsafe[node]){
+        if (visit[node]) {
             return false;
         }
-
-        vis[node] = 1;
-        path[node] = 1;
-
-        //bool x = true;
-        for(auto it : graph[node]){
-            if(vis[it] && path[it]){
-                unsafe[it] = 1;
-                unsafe[node] = 1;
-                return false;
-            }
-            else if(unsafe[it]){
-                unsafe[node] =1;
-                return false;
-            }
-            else if(!vis[it]){
-             if(solve(graph,n,it,vis,path) == false){
-                 unsafe[it] = 1;
-                 unsafe[node] = 1;
-                 return false;
-             }
+        // Mark the current node as visited and part of current recursion stack.
+        visit[node] = true;
+        inStack[node] = true;
+        for (auto neighbor : adj[node]) {
+            if (dfs(neighbor, adj, visit, inStack)) {
+                return true;
             }
         }
-
-        path[node] = 0;
-        safe[node] = 1;
-        ans.insert(node);
-        return true; 
-
+        // Remove the node from the stack.
+        inStack[node] = false;
+        return false;
     }
 
     vector<int> eventualSafeNodes(vector<vector<int>>& graph) {
         int n = graph.size();
+        vector<bool> visit(n), inStack(n);
 
-        for(int i = 0;i<n;i++){
-            if(graph[i].empty()){
-                safe[i] = 1;
-                ans.insert(i);
+        for (int i = 0; i < n; i++) {
+            if(!inStack[i])
+            dfs(i, graph, visit, inStack);
+        }
+
+        vector<int> safeNodes;
+        for (int i = 0; i < n; i++) {
+            if (!inStack[i]) {
+                safeNodes.push_back(i);
             }
         }
-        vector<int> vis(n,0);
-        vector<int> path(n,0);
 
-        for(int i=0;i<n;i++){
-            if(!safe[i] && !unsafe[i]){
-                solve(graph,n,i,vis,path);
-            }
-        }
-
-        vector<int> final;
-        for(auto it : ans){
-            final.push_back(it);
-        }
-        return final;
+        return safeNodes;
     }
 };
