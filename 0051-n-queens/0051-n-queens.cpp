@@ -1,42 +1,54 @@
 class Solution {
 public:
-    
-    vector<vector<string>>combinations;
-    vector<string>current;
 
-    bool check(int index,int i,int n){
-            //check free column
-            for(int j=0;j<n;j++){
-                if(current[j][i]=='Q') return false;
-            }
+    vector<vector<string>> ans;
 
-            //check free diagonal
-            for(int a=index,b=i;a>=0 && b>=0;a--,b--){
-                if(current[a][b]=='Q') return false;
-            }
-            for(int a=index,b=i;a>=0 && b<n;a--,b++){
-                if(current[a][b]=='Q') return false;
-            }
-            return true;
+    bool check(vector<string>curr,int row,int col,int n){
+        for(int i=0;i<row;i++){
+            if(curr[i][col] == 'Q') return false;
+        }
+        int i=row-1,j=col-1;
+        while(i>=0 && j>=0){
+            if(curr[i][j] == 'Q') return false;
+            i--;
+            j--;
+        }
+        i=row-1;
+        j = col+1;
+        while(i>=0 && j<n){
+            if(curr[i][j] == 'Q') return false;
+            i--;
+            j++;
+        }
+        return true;
+
     }
-    void backtrack(int index,int n){
-        if(index==n){
-            combinations.push_back(current);
+
+    void solve(vector<string>curr,int row,int n){
+        if(row==n){
+            ans.push_back(curr);
             return;
         }
 
         for(int i=0;i<n;i++){
-            if(check(index,i,n)){
-                current[index][i]='Q';
-                backtrack(index+1,n);
-                current[index][i]='.';
+            if(check(curr,row,i,n)){
+                curr[row][i] = 'Q';
+                solve(curr,row+1,n);
+                curr[row][i] = '.';
             }
         }
     }
-    
+
     vector<vector<string>> solveNQueens(int n) {
-        current.assign(n,string(n,'.'));
-        backtrack(0,n);
-        return combinations;
+        string dots = "";
+        for(int i=0;i<n;i++){
+            dots+='.';
+        }
+        vector<string>curr(n,dots);
+
+        solve(curr,0,n);
+
+        return ans;
+
     }
 };
