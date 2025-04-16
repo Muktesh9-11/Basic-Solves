@@ -1,12 +1,26 @@
 class Solution {
 public:
-    int climbStairs(int n) {
-        vector<int> hash(n+1,-1);
-        hash[0]=1;
-        hash[1]=1;
-        for(int i=2;i<=n;i++){
-            hash[i]=max(hash[i],(hash[i-1]+hash[i-2]));
+    int ans = 0;
+    void solve(int n){
+        int prev1=2,prev2=1;
+        if(n==1) {
+            //prev2 = 1;
+            ans = 1;
+            return;
         }
-        return hash[n];
+        if(n==2) {
+            //prev1 = 2;
+            ans = 2;
+            return;
+        }
+        for(int i=3;i<=n;i++){
+            ans = prev2 + prev1;
+            prev2 = prev1;
+            prev1 = ans;
+        }
+    }
+    int climbStairs(int n) {
+        solve(n);
+        return ans;
     }
 };
