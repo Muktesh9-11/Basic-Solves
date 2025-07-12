@@ -3,24 +3,30 @@ public:
     int n;
     int total;
     //int fix;
-    int solve(vector<int>arr,int i,int target, vector<vector<int>>&dp,int sum){
+    int solve(vector<int>arr,int i,int target, vector<vector<int>>&dp){
         if(i == n){
-            if(sum == target) return 1;
+            if(target == 0) return 1;
             return 0;
         }
 
-        if(dp[i][total+sum] != -1) return dp[i][total+sum];
+        if(dp[i][target] != -1) return dp[i][target];
 
-        int add = solve(arr,i+1,target,dp,sum+arr[i]);
-        int sub = solve(arr,i+1,target,dp, sum-arr[i]);
+        int notadd = solve(arr,i+1,target,dp);
+        int add = 0;
+        if(arr[i]<=target) add = solve(arr,i+1,target-arr[i],dp);
 
-        return dp[i][total+sum] = add+sub;
+        return dp[i][target] = add+notadd;
     }
     int findTargetSumWays(vector<int>& nums, int target) {
         n = nums.size();
         total = accumulate(nums.begin(),nums.end(),0);
-        vector<vector<int>>dp(n,vector<int>(2*total+1,-1));
+        if (total - target < 0)
+        return 0; // Not possible to achieve the target sum
+    if ((total - target) % 2 == 1)
+        return 0;
 
-        return solve(nums,0,target,dp,0);
+        vector<vector<int>>dp(n,vector<int>((total - target) / 2+1,-1));
+
+        return solve(nums,0,(total-target)/2,dp);
     }
 };
