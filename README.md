@@ -8,6 +8,7 @@ Some questions that I solve as I learn.
 | ------- | ------- |
 | [0368-largest-divisible-subset](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/0368-largest-divisible-subset/) | Medium |
 | [2906-construct-product-matrix](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/2906-construct-product-matrix/) | Medium |
+| [3546-equal-sum-grid-partition-i](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3546-equal-sum-grid-partition-i/) | Medium |
 | [3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -20,15 +21,18 @@ Some questions that I solve as I learn.
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3546-equal-sum-grid-partition-i](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3546-equal-sum-grid-partition-i/) | Medium |
 | [3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2906-construct-product-matrix](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/2906-construct-product-matrix/) | Medium |
+| [3546-equal-sum-grid-partition-i](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3546-equal-sum-grid-partition-i/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2906-construct-product-matrix](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/2906-construct-product-matrix/) | Medium |
+| [3546-equal-sum-grid-partition-i](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3546-equal-sum-grid-partition-i/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
