@@ -7,6 +7,7 @@ Some questions that I solve as I learn.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0368-largest-divisible-subset](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/0368-largest-divisible-subset/) | Medium |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [1048-longest-string-chain](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/1048-longest-string-chain/) | Medium |
 | [2906-construct-product-matrix](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/2906-construct-product-matrix/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3546-equal-sum-grid-partition-i/) | Medium |
@@ -42,6 +43,7 @@ Some questions that I solve as I learn.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0368-largest-divisible-subset](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/0368-largest-divisible-subset/) | Medium |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [1048-longest-string-chain](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/1048-longest-string-chain/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -60,4 +62,12 @@ Some questions that I solve as I learn.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1048-longest-string-chain](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/1048-longest-string-chain/) | Medium |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/0673-number-of-longest-increasing-subsequence/) | Medium |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/0673-number-of-longest-increasing-subsequence/) | Medium |
 <!---LeetCode Topics End-->
