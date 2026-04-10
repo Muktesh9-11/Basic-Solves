@@ -14,6 +14,7 @@ Some questions that I solve as I learn.
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Easy/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3546-equal-sum-grid-partition-i/) | Medium |
 | [3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and/) | Medium |
+| [3892-minimum-operations-to-achieve-at-least-k-peaks](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Hard/3892-minimum-operations-to-achieve-at-least-k-peaks/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -49,6 +50,7 @@ Some questions that I solve as I learn.
 | [0368-largest-divisible-subset](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/0368-largest-divisible-subset/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [1048-longest-string-chain](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/1048-longest-string-chain/) | Medium |
+| [3892-minimum-operations-to-achieve-at-least-k-peaks](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Hard/3892-minimum-operations-to-achieve-at-least-k-peaks/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
