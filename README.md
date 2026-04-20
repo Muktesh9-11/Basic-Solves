@@ -9,6 +9,7 @@ Some questions that I solve as I learn.
 | [0368-largest-divisible-subset](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/0368-largest-divisible-subset/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [1048-longest-string-chain](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/1048-longest-string-chain/) | Medium |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Easy/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Easy/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2751-robot-collisions](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Hard/2751-robot-collisions/) | Hard |
 | [2906-construct-product-matrix](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/2906-construct-product-matrix/) | Medium |
@@ -100,4 +101,8 @@ Some questions that I solve as I learn.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2751-robot-collisions](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Hard/2751-robot-collisions/) | Hard |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Easy/2078-two-furthest-houses-with-different-colors/) | Easy |
 <!---LeetCode Topics End-->
