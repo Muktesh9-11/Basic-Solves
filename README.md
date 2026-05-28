@@ -76,6 +76,7 @@ Some questions that I solve as I learn.
 | [1048-longest-string-chain](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/1048-longest-string-chain/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3488-closest-equal-element-queries/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Two Pointers
@@ -92,6 +93,7 @@ Some questions that I solve as I learn.
 | [2833-furthest-point-from-origin](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Easy/2833-furthest-point-from-origin/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Easy/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3121-count-the-number-of-special-characters-ii/) | Medium |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
