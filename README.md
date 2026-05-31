@@ -94,6 +94,7 @@ Some questions that I solve as I learn.
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Easy/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3931-check-adjacent-digit-differences](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Easy/3931-check-adjacent-digit-differences/) | Easy |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
