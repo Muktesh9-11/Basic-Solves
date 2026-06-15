@@ -92,6 +92,7 @@ Some questions that I solve as I learn.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1048-longest-string-chain](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/1048-longest-string-chain/) | Medium |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Easy/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -146,4 +147,8 @@ Some questions that I solve as I learn.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 <!---LeetCode Topics End-->
