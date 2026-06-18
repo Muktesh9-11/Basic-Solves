@@ -26,6 +26,7 @@ Some questions that I solve as I learn.
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and/) | Medium |
 | [3892-minimum-operations-to-achieve-at-least-k-peaks](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Hard/3892-minimum-operations-to-achieve-at-least-k-peaks/) | Hard |
+| [3923-minimum-generations-to-target-point](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3923-minimum-generations-to-target-point/) | Medium |
 | [3934-smallest-unique-subarray](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Hard/3934-smallest-unique-subarray/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -90,6 +91,7 @@ Some questions that I solve as I learn.
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3488-closest-equal-element-queries/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
+| [3923-minimum-generations-to-target-point](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3923-minimum-generations-to-target-point/) | Medium |
 | [3934-smallest-unique-subarray](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Hard/3934-smallest-unique-subarray/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -124,6 +126,7 @@ Some questions that I solve as I learn.
 | [2553-separate-the-digits-in-an-array](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Easy/2553-separate-the-digits-in-an-array/) | Easy |
 | [2751-robot-collisions](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Hard/2751-robot-collisions/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Easy/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3923-minimum-generations-to-target-point](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3923-minimum-generations-to-target-point/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
