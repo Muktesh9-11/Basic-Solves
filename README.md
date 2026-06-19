@@ -67,6 +67,7 @@ Some questions that I solve as I learn.
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3932-count-k-th-roots-in-a-range](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3932-count-k-th-roots-in-a-range/) | Medium |
+| [3945-digit-frequency-score](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Easy/3945-digit-frequency-score/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -93,6 +94,7 @@ Some questions that I solve as I learn.
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3923-minimum-generations-to-target-point](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3923-minimum-generations-to-target-point/) | Medium |
 | [3934-smallest-unique-subarray](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Hard/3934-smallest-unique-subarray/) | Hard |
+| [3945-digit-frequency-score](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Easy/3945-digit-frequency-score/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
