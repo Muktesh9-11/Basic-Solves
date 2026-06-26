@@ -29,6 +29,7 @@ Some questions that I solve as I learn.
 | [3923-minimum-generations-to-target-point](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3923-minimum-generations-to-target-point/) | Medium |
 | [3934-smallest-unique-subarray](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Hard/3934-smallest-unique-subarray/) | Hard |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3946-maximum-number-of-items-from-sale-i/) | Medium |
+| [3948-lexicographically-maximum-mex-array](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Hard/3948-lexicographically-maximum-mex-array/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -97,6 +98,7 @@ Some questions that I solve as I learn.
 | [3923-minimum-generations-to-target-point](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3923-minimum-generations-to-target-point/) | Medium |
 | [3934-smallest-unique-subarray](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Hard/3934-smallest-unique-subarray/) | Hard |
 | [3945-digit-frequency-score](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Easy/3945-digit-frequency-score/) | Easy |
+| [3948-lexicographically-maximum-mex-array](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Hard/3948-lexicographically-maximum-mex-array/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -142,6 +144,7 @@ Some questions that I solve as I learn.
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Easy/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3689-maximum-total-subarray-value-i/) | Medium |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3946-maximum-number-of-items-from-sale-i/) | Medium |
+| [3948-lexicographically-maximum-mex-array](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Hard/3948-lexicographically-maximum-mex-array/) | Hard |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -174,4 +177,8 @@ Some questions that I solve as I learn.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3934-smallest-unique-subarray](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Hard/3934-smallest-unique-subarray/) | Hard |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3948-lexicographically-maximum-mex-array](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Hard/3948-lexicographically-maximum-mex-array/) | Hard |
 <!---LeetCode Topics End-->
