@@ -24,6 +24,7 @@ Some questions that I solve as I learn.
 | [3546-equal-sum-grid-partition-i](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3546-equal-sum-grid-partition-i/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Easy/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3689-maximum-total-subarray-value-i/) | Medium |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and/) | Medium |
 | [3892-minimum-operations-to-achieve-at-least-k-peaks](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Hard/3892-minimum-operations-to-achieve-at-least-k-peaks/) | Hard |
@@ -62,6 +63,7 @@ Some questions that I solve as I learn.
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [2906-construct-product-matrix](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/2906-construct-product-matrix/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3546-equal-sum-grid-partition-i/) | Medium |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -96,6 +98,7 @@ Some questions that I solve as I learn.
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3488-closest-equal-element-queries/) | Medium |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3923-minimum-generations-to-target-point](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3923-minimum-generations-to-target-point/) | Medium |
 | [3934-smallest-unique-subarray](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Hard/3934-smallest-unique-subarray/) | Hard |
@@ -127,6 +130,7 @@ Some questions that I solve as I learn.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/0673-number-of-longest-increasing-subsequence/) | Medium |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -155,6 +159,7 @@ Some questions that I solve as I learn.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2833-furthest-point-from-origin](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Easy/2833-furthest-point-from-origin/) | Easy |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -187,4 +192,12 @@ Some questions that I solve as I learn.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3047-find-the-largest-area-of-square-inside-two-rectangles/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 <!---LeetCode Topics End-->
