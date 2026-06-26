@@ -19,6 +19,7 @@ Some questions that I solve as I learn.
 | [2751-robot-collisions](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Hard/2751-robot-collisions/) | Hard |
 | [2906-construct-product-matrix](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Easy/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3047-find-the-largest-area-of-square-inside-two-rectangles/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3488-closest-equal-element-queries/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3546-equal-sum-grid-partition-i/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Easy/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -66,6 +67,7 @@ Some questions that I solve as I learn.
 | ------- | ------- |
 | [0368-largest-divisible-subset](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/0368-largest-divisible-subset/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Easy/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3047-find-the-largest-area-of-square-inside-two-rectangles/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3932-count-k-th-roots-in-a-range](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3932-count-k-th-roots-in-a-range/) | Medium |
@@ -181,4 +183,8 @@ Some questions that I solve as I learn.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3948-lexicographically-maximum-mex-array](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Hard/3948-lexicographically-maximum-mex-array/) | Hard |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3047-find-the-largest-area-of-square-inside-two-rectangles/) | Medium |
 <!---LeetCode Topics End-->
