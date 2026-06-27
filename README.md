@@ -18,6 +18,7 @@ Some questions that I solve as I learn.
 | [2553-separate-the-digits-in-an-array](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Easy/2553-separate-the-digits-in-an-array/) | Easy |
 | [2751-robot-collisions](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Hard/2751-robot-collisions/) | Hard |
 | [2906-construct-product-matrix](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/2906-construct-product-matrix/) | Medium |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/2943-maximize-area-of-square-hole-in-grid/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Easy/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3047-find-the-largest-area-of-square-inside-two-rectangles/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3488-closest-equal-element-queries/) | Medium |
@@ -89,6 +90,7 @@ Some questions that I solve as I learn.
 | [1048-longest-string-chain](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/1048-longest-string-chain/) | Medium |
 | [2751-robot-collisions](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Hard/2751-robot-collisions/) | Hard |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/2943-maximize-area-of-square-hole-in-grid/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Easy/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
