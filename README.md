@@ -34,6 +34,7 @@ Some questions that I solve as I learn.
 | [3934-smallest-unique-subarray](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Hard/3934-smallest-unique-subarray/) | Hard |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3946-maximum-number-of-items-from-sale-i/) | Medium |
 | [3948-lexicographically-maximum-mex-array](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Hard/3948-lexicographically-maximum-mex-array/) | Hard |
+| [3975-filter-occupied-intervals](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3975-filter-occupied-intervals/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -94,6 +95,7 @@ Some questions that I solve as I learn.
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/2943-maximize-area-of-square-hole-in-grid/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Easy/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
+| [3975-filter-occupied-intervals](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3975-filter-occupied-intervals/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
