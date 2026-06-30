@@ -100,6 +100,7 @@ Some questions that I solve as I learn.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1048-longest-string-chain](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/1048-longest-string-chain/) | Medium |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3121-count-the-number-of-special-characters-ii/) | Medium |
@@ -120,6 +121,7 @@ Some questions that I solve as I learn.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1048-longest-string-chain](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/1048-longest-string-chain/) | Medium |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Easy/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
@@ -207,4 +209,8 @@ Some questions that I solve as I learn.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 <!---LeetCode Topics End-->
