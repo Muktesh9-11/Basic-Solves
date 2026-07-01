@@ -19,6 +19,7 @@ Some questions that I solve as I learn.
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Easy/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Easy/2553-separate-the-digits-in-an-array/) | Easy |
 | [2751-robot-collisions](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Hard/2751-robot-collisions/) | Hard |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2906-construct-product-matrix](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/2906-construct-product-matrix/) | Medium |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/2943-maximize-area-of-square-hole-in-grid/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Easy/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
@@ -40,6 +41,7 @@ Some questions that I solve as I learn.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/0033-search-in-rotated-sorted-array/) | Medium |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3488-closest-equal-element-queries/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Easy/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and/) | Medium |
@@ -58,6 +60,7 @@ Some questions that I solve as I learn.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Easy/2373-largest-local-values-in-a-matrix/) | Easy |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2906-construct-product-matrix](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Easy/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3546-equal-sum-grid-partition-i/) | Medium |
@@ -215,4 +218,16 @@ Some questions that I solve as I learn.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
 <!---LeetCode Topics End-->
