@@ -37,6 +37,7 @@ Some questions that I solve as I learn.
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3946-maximum-number-of-items-from-sale-i/) | Medium |
 | [3948-lexicographically-maximum-mex-array](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Hard/3948-lexicographically-maximum-mex-array/) | Hard |
 | [3975-filter-occupied-intervals](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3975-filter-occupied-intervals/) | Medium |
+| [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Hard/3977-minimum-time-to-reach-target-with-limited-power/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -89,6 +90,7 @@ Some questions that I solve as I learn.
 | [1048-longest-string-chain](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/1048-longest-string-chain/) | Medium |
 | [3892-minimum-operations-to-achieve-at-least-k-peaks](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Hard/3892-minimum-operations-to-achieve-at-least-k-peaks/) | Hard |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3946-maximum-number-of-items-from-sale-i/) | Medium |
+| [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Hard/3977-minimum-time-to-reach-target-with-limited-power/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -230,4 +232,13 @@ Some questions that I solve as I learn.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Hard/3977-minimum-time-to-reach-target-with-limited-power/) | Hard |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Hard/3977-minimum-time-to-reach-target-with-limited-power/) | Hard |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Hard/3977-minimum-time-to-reach-target-with-limited-power/) | Hard |
 <!---LeetCode Topics End-->
