@@ -24,6 +24,7 @@ Some questions that I solve as I learn.
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/2943-maximize-area-of-square-hole-in-grid/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Easy/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3047-find-the-largest-area-of-square-inside-two-rectangles/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3488-closest-equal-element-queries/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3546-equal-sum-grid-partition-i/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Easy/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -64,6 +65,7 @@ Some questions that I solve as I learn.
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2906-construct-product-matrix](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Easy/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3546-equal-sum-grid-partition-i/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -224,6 +226,7 @@ Some questions that I solve as I learn.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -232,13 +235,16 @@ Some questions that I solve as I learn.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Hard/3977-minimum-time-to-reach-target-with-limited-power/) | Hard |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Hard/3977-minimum-time-to-reach-target-with-limited-power/) | Hard |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Hard/3977-minimum-time-to-reach-target-with-limited-power/) | Hard |
 <!---LeetCode Topics End-->
