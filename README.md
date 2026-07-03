@@ -28,6 +28,7 @@ Some questions that I solve as I learn.
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3488-closest-equal-element-queries/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3546-equal-sum-grid-partition-i/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Hard/3620-network-recovery-pathways/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Easy/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3689-maximum-total-subarray-value-i/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -46,6 +47,7 @@ Some questions that I solve as I learn.
 | [0033-search-in-rotated-sorted-array](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/0033-search-in-rotated-sorted-array/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3488-closest-equal-element-queries/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Hard/3620-network-recovery-pathways/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Easy/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and/) | Medium |
 | [3932-count-k-th-roots-in-a-range](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3932-count-k-th-roots-in-a-range/) | Medium |
@@ -91,6 +93,7 @@ Some questions that I solve as I learn.
 | [0368-largest-divisible-subset](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/0368-largest-divisible-subset/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [1048-longest-string-chain](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/1048-longest-string-chain/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Hard/3620-network-recovery-pathways/) | Hard |
 | [3892-minimum-operations-to-achieve-at-least-k-peaks](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Hard/3892-minimum-operations-to-achieve-at-least-k-peaks/) | Hard |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3946-maximum-number-of-items-from-sale-i/) | Medium |
 | [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Hard/3977-minimum-time-to-reach-target-with-limited-power/) | Hard |
@@ -238,19 +241,26 @@ Some questions that I solve as I learn.
 | ------- | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Hard/3620-network-recovery-pathways/) | Hard |
 | [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Hard/3977-minimum-time-to-reach-target-with-limited-power/) | Hard |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Hard/3620-network-recovery-pathways/) | Hard |
 | [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Hard/3977-minimum-time-to-reach-target-with-limited-power/) | Hard |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Hard/3620-network-recovery-pathways/) | Hard |
 | [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Hard/3977-minimum-time-to-reach-target-with-limited-power/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Hard/0084-largest-rectangle-in-histogram/) | Hard |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3620-network-recovery-pathways](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Hard/3620-network-recovery-pathways/) | Hard |
 <!---LeetCode Topics End-->
