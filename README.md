@@ -7,6 +7,7 @@ Some questions that I solve as I learn.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/0033-search-in-rotated-sorted-array/) | Medium |
+| [0084-largest-rectangle-in-histogram](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Hard/0084-largest-rectangle-in-histogram/) | Hard |
 | [0368-largest-divisible-subset](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/0368-largest-divisible-subset/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [1048-longest-string-chain](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/1048-longest-string-chain/) | Medium |
@@ -159,6 +160,7 @@ Some questions that I solve as I learn.
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Hard/0084-largest-rectangle-in-histogram/) | Hard |
 | [2751-robot-collisions](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Hard/2751-robot-collisions/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
@@ -247,4 +249,8 @@ Some questions that I solve as I learn.
 | ------- | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Hard/3977-minimum-time-to-reach-target-with-limited-power/) | Hard |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Hard/0084-largest-rectangle-in-histogram/) | Hard |
 <!---LeetCode Topics End-->
