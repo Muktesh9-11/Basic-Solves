@@ -13,6 +13,7 @@ Some questions that I solve as I learn.
 | [0368-largest-divisible-subset](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/0368-largest-divisible-subset/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [1048-longest-string-chain](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/1048-longest-string-chain/) | Medium |
+| [1301-number-of-paths-with-max-score](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Hard/1301-number-of-paths-with-max-score/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -68,6 +69,7 @@ Some questions that I solve as I learn.
 | ------- | ------- |
 | [0085-maximal-rectangle](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Hard/0085-maximal-rectangle/) | Hard |
 | [0221-maximal-square](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/0221-maximal-square/) | Medium |
+| [1301-number-of-paths-with-max-score](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Hard/1301-number-of-paths-with-max-score/) | Hard |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Easy/2373-largest-local-values-in-a-matrix/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2906-construct-product-matrix](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/2906-construct-product-matrix/) | Medium |
@@ -99,6 +101,7 @@ Some questions that I solve as I learn.
 | [0368-largest-divisible-subset](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/0368-largest-divisible-subset/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [1048-longest-string-chain](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/1048-longest-string-chain/) | Medium |
+| [1301-number-of-paths-with-max-score](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Hard/1301-number-of-paths-with-max-score/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Hard/3620-network-recovery-pathways/) | Hard |
 | [3892-minimum-operations-to-achieve-at-least-k-peaks](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Hard/3892-minimum-operations-to-achieve-at-least-k-peaks/) | Hard |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3946-maximum-number-of-items-from-sale-i/) | Medium |
