@@ -84,6 +84,7 @@ Some questions that I solve as I learn.
 | [2906-construct-product-matrix](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/2906-construct-product-matrix/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3546-equal-sum-grid-partition-i/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -92,6 +93,7 @@ Some questions that I solve as I learn.
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3047-find-the-largest-area-of-square-inside-two-rectangles/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Easy/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3932-count-k-th-roots-in-a-range](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3932-count-k-th-roots-in-a-range/) | Medium |
 | [3945-digit-frequency-score](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Easy/3945-digit-frequency-score/) | Easy |
@@ -154,6 +156,7 @@ Some questions that I solve as I learn.
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Easy/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3931-check-adjacent-digit-differences](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Easy/3931-check-adjacent-digit-differences/) | Easy |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
