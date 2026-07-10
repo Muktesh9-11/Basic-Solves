@@ -32,6 +32,7 @@ Some questions that I solve as I learn.
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3488-closest-equal-element-queries/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3546-equal-sum-grid-partition-i](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3546-equal-sum-grid-partition-i/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Hard/3620-network-recovery-pathways/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Easy/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -53,6 +54,7 @@ Some questions that I solve as I learn.
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3488-closest-equal-element-queries/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Hard/3620-network-recovery-pathways/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Easy/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and/) | Medium |
@@ -61,6 +63,7 @@ Some questions that I solve as I learn.
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -108,6 +111,7 @@ Some questions that I solve as I learn.
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [1048-longest-string-chain](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/1048-longest-string-chain/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Hard/1301-number-of-paths-with-max-score/) | Hard |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Hard/3620-network-recovery-pathways/) | Hard |
 | [3892-minimum-operations-to-achieve-at-least-k-peaks](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Hard/3892-minimum-operations-to-achieve-at-least-k-peaks/) | Hard |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3946-maximum-number-of-items-from-sale-i/) | Medium |
@@ -122,6 +126,7 @@ Some questions that I solve as I learn.
 | [2751-robot-collisions](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Hard/2751-robot-collisions/) | Hard |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/2943-maximize-area-of-square-hole-in-grid/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Easy/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3975-filter-occupied-intervals](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3975-filter-occupied-intervals/) | Medium |
 ## Hash Table
@@ -145,6 +150,7 @@ Some questions that I solve as I learn.
 | ------- | ------- |
 | [1048-longest-string-chain](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/1048-longest-string-chain/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Easy/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -189,6 +195,7 @@ Some questions that I solve as I learn.
 | ------- | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Easy/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Easy/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3689-maximum-total-subarray-value-i/) | Medium |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3946-maximum-number-of-items-from-sale-i/) | Medium |
@@ -272,6 +279,7 @@ Some questions that I solve as I learn.
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Hard/3620-network-recovery-pathways/) | Hard |
 | [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Hard/3977-minimum-time-to-reach-target-with-limited-power/) | Hard |
 ## Shortest Path
