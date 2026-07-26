@@ -222,10 +222,12 @@ Some questions that I solve as I learn.
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/2685-count-the-number-of-complete-components/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
@@ -269,6 +271,7 @@ Some questions that I solve as I learn.
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/2685-count-the-number-of-complete-components/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -316,4 +319,8 @@ Some questions that I solve as I learn.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Easy/3658-gcd-of-odd-and-even-sums/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 <!---LeetCode Topics End-->
