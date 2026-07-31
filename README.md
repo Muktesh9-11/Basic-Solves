@@ -7,6 +7,7 @@ Some questions that I solve as I learn.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/0033-search-in-rotated-sorted-array/) | Medium |
+| [0056-merge-intervals](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/0056-merge-intervals/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Hard/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Hard/0085-maximal-rectangle/) | Hard |
 | [0221-maximal-square](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/0221-maximal-square/) | Medium |
@@ -122,6 +123,7 @@ Some questions that I solve as I learn.
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0056-merge-intervals](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/0056-merge-intervals/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/0368-largest-divisible-subset/) | Medium |
 | [1048-longest-string-chain](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/1048-longest-string-chain/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/1288-remove-covered-intervals/) | Medium |
