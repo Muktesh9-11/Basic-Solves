@@ -200,6 +200,7 @@ Some questions that I solve as I learn.
 | [0020-valid-parentheses](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
 | [0084-largest-rectangle-in-histogram](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Hard/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Hard/0085-maximal-rectangle/) | Hard |
+| [0094-binary-tree-inorder-traversal](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Easy/0094-binary-tree-inorder-traversal/) | Easy |
 | [2751-robot-collisions](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Hard/2751-robot-collisions/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
@@ -224,11 +225,13 @@ Some questions that I solve as I learn.
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Easy/0094-binary-tree-inorder-traversal/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Easy/0094-binary-tree-inorder-traversal/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/2685-count-the-number-of-complete-components/) | Medium |
@@ -324,5 +327,6 @@ Some questions that I solve as I learn.
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Easy/0094-binary-tree-inorder-traversal/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 <!---LeetCode Topics End-->
