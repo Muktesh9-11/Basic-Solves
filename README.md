@@ -226,12 +226,14 @@ Some questions that I solve as I learn.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Easy/0094-binary-tree-inorder-traversal/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Easy/0543-diameter-of-binary-tree/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Easy/0094-binary-tree-inorder-traversal/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Easy/0543-diameter-of-binary-tree/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/2685-count-the-number-of-complete-components/) | Medium |
@@ -328,5 +330,10 @@ Some questions that I solve as I learn.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Easy/0094-binary-tree-inorder-traversal/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Easy/0543-diameter-of-binary-tree/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Medium/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Muktesh9-11/Basic-Solves/tree/main/LeetCode/Easy/0543-diameter-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
